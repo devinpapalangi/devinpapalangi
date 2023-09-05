@@ -3,7 +3,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,express,flutter,html,css,js,typescript,python,c,dart,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,express,flutter)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,c,dart,php)](https://skillicons.dev)
+
 
 ## 🚀 What I Do
 
