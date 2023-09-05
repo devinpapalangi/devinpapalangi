@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,c,dart,php)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 ## 🚀 What I Do
 
