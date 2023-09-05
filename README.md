@@ -56,5 +56,7 @@ I'm always excited to connect with like-minded individuals and engage in meaning
 - Twitter: devinpapalangi
 
 Thank you for visiting my GitHub profile, and I look forward to sharing ideas, code, and knowledge with you. Together, we can make the tech world a better place!
+
 ---
+
 ©2023 -- Devin Anugrah
