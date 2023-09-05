@@ -41,12 +41,8 @@ Over the years, I've had the privilege of working on a variety of projects, both
 ## 📫 Let's Connect
 
 I'm always excited to connect with like-minded individuals and engage in meaningful discussions about tech and beyond. Feel free to reach out to me on social media:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,twitter" />
-    <h2 align='center'>devinpapalangi</h2>
-  </a>
-</p>
+- Email : devin.anugrah@outlook.com
+- Instagram: devinpapalangi
+- Twitter: devinpapalangi
 
 Thank you for visiting my GitHub profile, and I look forward to sharing ideas, code, and knowledge with you. Together, we can make the tech world a better place!
