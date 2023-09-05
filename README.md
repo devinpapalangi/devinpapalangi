@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both 
 ## Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,express" />
+    <img src="https://skillicons.dev/icons?i=react,laravel,express,flutter" />
   </a>
 </p>
 
 ## Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,c++" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,c++,dart" />
   </a>
 </p>
 
