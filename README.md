@@ -1,7 +1,18 @@
 #  Hello, I'm Devin Anugrah!👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both Website and Mobile Development. I believe in the power of open-source collaboration and the continuous pursuit of knowledge. On this platform, you'll find a diverse collection of projects and repositories that reflect my journey through the world of technology.
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=devinpapalangi&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats" />
+  </a>
+</div>
 
 ## Tech Stack
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinpapalangi&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Langs" />
+  </a>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=react,laravel,express,flutter)](https://skillicons.dev)
 
