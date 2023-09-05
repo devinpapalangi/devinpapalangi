@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both 
 ## Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,c++,dart" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,dart" />
   </a>
 </p>
 
