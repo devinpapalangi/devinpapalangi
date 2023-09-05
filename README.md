@@ -1,19 +1,9 @@
 #  Hello, I'm Devin Anugrah!👋
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both Website and Mobile Development. I believe in the power of open-source collaboration and the continuous pursuit of knowledge. On this platform, you'll find a diverse collection of projects and repositories that reflect my journey through the world of technology.
 
-## Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,express,flutter" />
-  </a>
-</p>
+## Tech Stack
 
-## Language
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,dart" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,express,flutter,html,css,js,typescript,python,c,dart)](https://skillicons.dev)
 
 ## 🚀 What I Do
 
