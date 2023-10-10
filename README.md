@@ -31,6 +31,7 @@ As for my projects, you can explore my GitHub repositories to see my work in act
 1. **Instagram Clone (Flutter):** This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone).
 
 2. **Amazon Clone (Flutter):** Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the project [here](https://github.com/devinpapalangi/amazon-clone).
+
 Both of these projects are available on my GitHub repositories for review and are representative of my capabilities.
 
 Additionally, during my internship at PT Artha Graha Internasional Tbk, I worked on two web projects:
@@ -51,7 +52,7 @@ While I'm proud of the work I've accomplished so far, I believe that there's alw
 My primary focus on methodologies stems from the desire to understand the architectural and procedural aspects of software development. While technical skills are crucial, a solid grasp of methodologies enhances my ability to plan, execute, and deliver projects efficiently. It represents my commitment to becoming a well-rounded developer who not only codes but also comprehends the intricate process that turns code into meaningful appli
 
 ## 🌐 My Contributions
-Over the years, I've had the privilege of working on a variety of projects, both personal and collaborative. My repositories cover a wide range of topics, including Full Stack App Development, Data Engineering, and even Machine Learning. Feel free to explore and use any of my open-source contributions. Your feedback and contributions are always welcome!
+Over the years, I've had the privilege of working on a variety of projects, both personal and collaborative. My repositories cover a wide range of topics, including Software Engineering and Full Stack App Development. Feel free to explore and use any of my open-source contributions. Your feedback and contributions are always welcome!
 
 ## 📫 Let's Connect
 I'm always excited to connect with like-minded individuals and engage in meaningful discussions about tech and beyond. Feel free to reach out to me on social media:
