@@ -1,5 +1,5 @@
 #  Hello, I'm Devin Anugrah!👋
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both Website and Mobile Development. I believe in the power of open-source collaboration and the continuous pursuit of knowledge. On this platform, you'll find a diverse collection of projects and repositories that reflect my journey through the world of technology.
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both Mobile and Website Development. I believe in the power of open-source collaboration and the continuous pursuit of knowledge. On this platform, you'll find a diverse collection of projects and repositories that reflect my journey through the world of technology.
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=devinpapalangi&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats" />
@@ -22,29 +22,17 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both 
 
 ## 🚀 What I Do
 
-I bring a versatile skill set to the world of tech, allowing me to contribute effectively in various domains. In front-end development, I'm proficient in HTML, CSS, and JavaScript, with a strong focus on creating dynamic and user-friendly interfaces. My expertise extends to building feature-rich web applications using React with TypeScript, ensuring a polished user experience.
+I bring a versatile skill set to the world of tech, allowing me to contribute effectively in various domains. In front-end development, I'm proficient in Dart, HTML, CSS, and JavaScript, with a strong focus on creating dynamic and user-friendly interfaces. My expertise extends to building feature-rich mobile and web applications using Flutter with Dart also and with TypeScript, ensuring a polished user experience.
 
-On the back-end, I'm well-versed in two powerful frameworks: Express.js and Laravel 10. Express.js, built on Node.js, enables me to craft efficient RESTful APIs and dynamic server-side applications, while Laravel 10, a robust PHP framework, empowers me to develop scalable and sophisticated back-end systems.
-
-While my data engineering experience is relatively brief, I've had hands-on exposure to Python and SQL, particularly in the realms of ETL processes and task automation. I've also ventured into bot development, including Natural Language Processing (NLP) applications.
+On the back-end, I'm well-versed in three powerful frameworks: Express.js, Laravel 10, and Gin. Express.js, built on Node.js, enables me to craft efficient RESTful APIs and dynamic server-side applications. Laravel 10, a robust PHP framework, empowers me to develop scalable and sophisticated back-end systems. Gin, on the other hand, is a high-performance web framework for the Go programming language, known for its speed and efficiency. It's an excellent choice for building fast and reliable APIs and web applications in Go.
 
 As for my projects, you can explore my GitHub repositories to see my work in action. Notably, I've developed:
+  1. Instagram Clone (Flutter): This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone)
+.
+  2. Amazon Clone (Flutter): Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the   
+     project [here](https://github.com/devinpapalangi/amazon-clone). 
 
-Mattermost Errbot Agi: This project showcases my expertise in chatbot development and integration with Mattermost. It's a testament to my ability to create conversational interfaces with a dynamic responses.
-
-Contract Web Manager: In the realm of full-stack web development, I've created the "Contract Web Manager" project. It demonstrates my proficiency in end-to-end web application development and management.
-
-Amazon Clone (Flutter): For mobile app development, I've built the "Amazon Clone" using Flutter. It highlights my skills in cross-platform app development and UI design.
-
-Based on projects that I have worked and things that I learned, here is a list of my skills and experience:
-- React JS/Typescript
-- Laravel
-- Express.js
-- Version Control(Git)
-- Cross-platform Mobile Development(Flutter)
-- Bot Development
-- NLP (Natural Language Processing)
-This list will grow longer because I will continue to learn new things every day.
+Both of these projects are available on my GitHub repositories for review and are representative of my capabilities. Additionally, I've completed web projects during my internship at PT Artha Graha Internasional Tbk, where I worked solo on the design and development, but unfortunately, I can't share these projects due to company restrictions.
 
 My commitment to staying updated with the latest technologies drives me to continuously explore new frameworks and tools. Whether it's enhancing user experiences, streamlining server-side operations, or working on data-related projects, I'm dedicated to delivering innovative solutions for the digital world.
 
