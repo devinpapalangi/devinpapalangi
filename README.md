@@ -27,12 +27,16 @@ I bring a versatile skill set to the world of tech, allowing me to contribute ef
 On the back-end, I'm well-versed in three powerful frameworks: Express.js, Laravel 10, and Gin. Express.js, built on Node.js, enables me to craft efficient RESTful APIs and dynamic server-side applications. Laravel 10, a robust PHP framework, empowers me to develop scalable and sophisticated back-end systems. Gin, on the other hand, is a high-performance web framework for the Go programming language, known for its speed and efficiency. It's an excellent choice for building fast and reliable APIs and web applications in Go.
 
 As for my projects, you can explore my GitHub repositories to see my work in action. Notably, I've developed:
-  1. Instagram Clone (Flutter): This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone)
-.
-  2. Amazon Clone (Flutter): Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the   
-     project [here](https://github.com/devinpapalangi/amazon-clone). 
 
-Both of these projects are available on my GitHub repositories for review and are representative of my capabilities. Additionally, I've completed web projects during my internship at PT Artha Graha Internasional Tbk, where I worked solo on the design and development, but unfortunately, I can't share these projects due to company restrictions.
+1. **Instagram Clone (Flutter):** This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone).
+
+2. **Amazon Clone (Flutter):** Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the project [here](https://github.com/devinpapalangi/amazon-clone).
+Both of these projects are available on my GitHub repositories for review and are representative of my capabilities.
+
+Additionally, during my internship at PT Artha Graha Internasional Tbk, I worked on two web projects:
+- **Contract Web Manager:** This website was created to store and manage contracts data for the Digital Banking Directorate. It was developed using React and Laravel.
+- **Testing Solution Website:** This website was designed to store and manage project data for testing. It was developed using React with Typescript and Gin.It tracks project progress and status and is used by the Testing Solution Team.
+Unfortunately, I can't share these web projects due to company restrictions.
 
 My commitment to staying updated with the latest technologies drives me to continuously explore new frameworks and tools. Whether it's enhancing user experiences, streamlining server-side operations, or working on data-related projects, I'm dedicated to delivering innovative solutions for the digital world.
 
