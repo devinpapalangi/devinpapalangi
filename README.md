@@ -35,8 +35,8 @@ As for my projects, you can explore my GitHub repositories to see my work in act
 Both of these projects are available on my GitHub repositories for review and are representative of my capabilities.
 
 Additionally, during my internship at PT Artha Graha Internasional Tbk, I worked on two web projects:
-- **Contract Web Manager:** This website was created to store and manage contracts data for the Digital Banking Directorate. It was developed using React and Laravel.
-- **Testing Solution Website:** This website was designed to store and manage project data for testing. It was developed using React with Typescript and Gin.It tracks project progress and status and is used by the Testing Solution Team.
+1. **Contract Web Manager:** This website was created to store and manage contracts data for the Digital Banking Directorate. It was developed using React and Laravel.
+2. **Testing Solution Website:** This website was designed to store and manage project data for testing. It was developed using React with Typescript and Gin.It tracks project progress and status and is used by the Testing Solution Team.
 
 Unfortunately, I can't share these web projects due to company restrictions.
 
