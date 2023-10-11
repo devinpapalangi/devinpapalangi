@@ -51,7 +51,7 @@ While I'm proud of the work I've accomplished so far, I believe that there's alw
 - Continuous Integration/Continuous Deployment (CI/CD)
 - Documentation
 
-My primary focus on methodologies stems from the desire to understand the architectural and procedural aspects of software development. While technical skills are crucial, a solid grasp of methodologies enhances my ability to plan, execute, and deliver projects efficiently. It represents my commitment to becoming a well-rounded developer who not only codes but also comprehends the intricate process that turns code into meaningful appli
+My primary focus on methodologies stems from the desire to understand the architectural and procedural aspects of software development. While technical skills are crucial, a solid grasp of methodologies enhances my ability to plan, execute, and deliver projects efficiently. It represents my commitment to becoming a well-rounded developer who not only codes but also comprehends the intricate process that turns code into meaningful application.
 
 ## 🌐 My Contributions
 Over the years, I've had the privilege of working on a variety of projects, both personal and collaborative. My repositories cover a wide range of topics, including Software Engineering and Full Stack App Development. Feel free to explore and use any of my open-source contributions. Your feedback and contributions are always welcome!
