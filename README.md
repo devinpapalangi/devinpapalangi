@@ -46,6 +46,7 @@ Please feel free to explore these projects on my GitHub profile, and don't hesit
 ## 🌟 Future Improvements
 While I'm proud of the work I've accomplished so far, I believe that there's always room for improvement and growth. Here are some exciting areas I plan to explore and enhance in the future:
 - Software Development Methodologies
+- Native Application Development (Android and iOS)
 - Testing and Quality Assurance
 - Continuous Integration/Continuous Deployment (CI/CD)
 - Documentation
