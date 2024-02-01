@@ -31,6 +31,8 @@ As for my projects, you can explore my GitHub repositories to see my work in act
 1. **Instagram Clone (Flutter):** This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone).
 
 2. **Amazon Clone (Flutter):** Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the project [here](https://github.com/devinpapalangi/amazon-clone).
+   
+3. **Ecommerce App(Flutter)** By far the most complex mobile app project i have ever worked on using Flutter. It follows all best practice in a Flutter framework with high maintainability and scalability. Explore more [here](https://github.com/devinpapalangi/ecommerce).
 
 Both of these projects are available on my GitHub repositories for review and are representative of my capabilities.
 
