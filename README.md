@@ -60,7 +60,7 @@ Over the years, I've had the privilege of working on a variety of projects, both
 
 ## 📫 Let's Connect
 I'm always excited to connect with like-minded individuals and engage in meaningful discussions about tech and beyond. Feel free to reach out to me on social media:
-- Email : devin.anugrah@outlook.com
+- Email : devinanugrahp27@gmail.com
 - Instagram: devinpapalangi
 - Twitter: devinpapalangi
 
