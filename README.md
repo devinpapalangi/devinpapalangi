@@ -1,71 +1,21 @@
-#  Hello, I'm Devin Anugrah!👋
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion in both Mobile and Website Development. I believe in the power of open-source collaboration and the continuous pursuit of knowledge. On this platform, you'll find a diverse collection of projects and repositories that reflect my journey through the world of technology.
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=devinpapalangi&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats" />
-  </a>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on<br>I am currently working as a system analyst and soon-to-be developer on various projects. My work involves system design by analyzing requirements from clients, designing user interfaces, database design, and transforming business needs into technical documentation for developers to follow.<br><br>👯 I’m looking to collaborate on<br>I’m open to collaborating on any software engineering projects that involve designing scalable, maintainable, and available systems using best practice development methods. I’m interested in projects that focus on effective system design and implementation.<br><br>🤝 I’m looking for help with<br>I’m seeking guidance on finding the best practices for addressing problems that meet specific requirements without over-engineering solutions. I’m looking for advice on how to balance complexity and practicality in system design.<br><br>🌱 I’m currently learning<br>I am working on improving my full-stack application development skills, focusing on Next.js and React for the frontend, and Python and Go for the backend. I am particularly interested in enhancing my understanding of the design process for full-stack applications.<br><br>💬 Ask me about<br>I’m not an expert yet, but I’m enthusiastic about discussing various topics. Feel free to ask me anything, even if I don’t have the answer right away—it’s a great way for me to learn and engage in interesting discussions.<br><br>⚡ Fun fact<br>I try to enjoy coding even with its stress included because I believe that embracing the challenges is the best way to learn and grow.
 
-## Tech Stack
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinpapalangi&show_icons=true&theme=dark#gh-dark-mode-only" alt="Top Langs" />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devinpapalangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devin Anugrah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devin Anugrah) 
 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,express,flutter)](https://skillicons.dev)
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devinpapalangi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devinpapalangi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinpapalangi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,html,css,js,typescript,php)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
-
-## 🚀 What I Do
-
-I bring a versatile skill set to the world of tech, allowing me to contribute effectively in various domains. In front-end development, I'm proficient in Dart, HTML, CSS, and JavaScript, with a strong focus on creating dynamic and user-friendly interfaces. My expertise extends to building feature-rich mobile and web applications using Flutter with Dart also and with TypeScript, ensuring a polished user experience.
-
-On the back-end, I'm well-versed in three powerful frameworks: Express.js, Laravel 10, and Gin. Express.js, built on Node.js, enables me to craft efficient RESTful APIs and dynamic server-side applications. Laravel 10, a robust PHP framework, empowers me to develop scalable and sophisticated back-end systems. Gin, on the other hand, is a high-performance web framework for the Go programming language, known for its speed and efficiency. It's an excellent choice for building fast and reliable APIs and web applications in Go.
-
-As for my projects, you can explore my GitHub repositories to see my work in action. Notably, I've developed:
-
-1. **Instagram Clone (Flutter):** This mobile app project showcases my skills in cross-platform app development and UI design. You can find the project [here](https://github.com/devinpapalangi/instagram-clone).
-
-2. **Amazon Clone (Flutter):** Another mobile app project, I've built the "Amazon Clone" using Flutter, highlighting my expertise in cross-platform app development and polished UI design. You can explore the project [here](https://github.com/devinpapalangi/amazon-clone).
-   
-3. **Ecommerce App(Flutter)** By far the most complex mobile app project i have ever worked on using Flutter. It follows all best practice in a Flutter framework with high maintainability and scalability. Explore more [here](https://github.com/devinpapalangi/ecommerce).
-
-Both of these projects are available on my GitHub repositories for review and are representative of my capabilities.
-
-Additionally, during my internship at PT Artha Graha Internasional Tbk, I worked on two web projects:
-1. **Contract Web Manager:** This website was created to store and manage contracts data for the Digital Banking Directorate. It was developed using React and Laravel.
-2. **Testing Solution Website:** This website was designed to store and manage project data for testing. It was developed using React with Typescript and Gin.It tracks project progress and status and is used by the Testing Solution Team.
-
-Unfortunately, I can't share these web projects due to company restrictions.
-
-My commitment to staying updated with the latest technologies drives me to continuously explore new frameworks and tools. Whether it's enhancing user experiences, streamlining server-side operations, or working on data-related projects, I'm dedicated to delivering innovative solutions for the digital world.
-
-Please feel free to explore these projects on my GitHub profile, and don't hesitate to reach out for collaboration or to discuss any of these endeavors further. Your feedback and contributions are always appreciated!
-## 🌟 Future Improvements
-While I'm proud of the work I've accomplished so far, I believe that there's always room for improvement and growth. Here are some exciting areas I plan to explore and enhance in the future:
-- Software Development Methodologies
-- Native Application Development (Android and iOS)
-- Testing and Quality Assurance
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Documentation
-
-My primary focus on methodologies stems from the desire to understand the architectural and procedural aspects of software development. While technical skills are crucial, a solid grasp of methodologies enhances my ability to plan, execute, and deliver projects efficiently. It represents my commitment to becoming a well-rounded developer who not only codes but also comprehends the intricate process that turns code into meaningful application.
-
-## 🌐 My Contributions
-Over the years, I've had the privilege of working on a variety of projects, both personal and collaborative. My repositories cover a wide range of topics, including Software Engineering and Full Stack App Development. Feel free to explore and use any of my open-source contributions. Your feedback and contributions are always welcome!
-
-## 📫 Let's Connect
-I'm always excited to connect with like-minded individuals and engage in meaningful discussions about tech and beyond. Feel free to reach out to me on social media:
-- Email : devinanugrahp27@gmail.com
-- Instagram: devinpapalangi
-- Twitter: devinpapalangi
-
-Thank you for visiting my GitHub profile, and I look forward to sharing ideas, code, and knowledge with you. Together, we can make the tech world a better place!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devinpapalangi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=devinpapalangi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-©2023 -- Devin Anugrah
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
